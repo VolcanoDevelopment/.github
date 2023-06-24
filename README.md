@@ -1,7 +1,7 @@
 ![Moon_UP](https://user-images.githubusercontent.com/72404424/188732547-f1d9f84e-f4fa-4d76-809e-7bab7e40d41a.png)
 
 <h1 align="center">VolcanoDevelopment</h1>
-<p align="center">This github is used bye the VolcanoMC Developers!</p>
+<p align="center">This github is used by the VolcanoMC Developers!</p>
 
 <br />
 
